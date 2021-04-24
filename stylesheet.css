@@ -3,6 +3,11 @@ img {
     width: 15%;
 }
 
+p {
+    text-align: left;
+    margin-left: 50px
+}
+
 body {
     text-align: left;
     margin-left: 100px
@@ -36,5 +41,5 @@ th {
   ol {
         list-style-type: upper-roman;  
         text-align: left;
-        margin-left:auto
+        margin-left: 0px
   }
